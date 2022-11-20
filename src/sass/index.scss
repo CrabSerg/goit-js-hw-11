@@ -31,7 +31,7 @@ header {
     transform: translate(-50%, 0);
     width: 100%;
     padding: 10px 0;
-    background-color: #4e4ecf;
+    background-color:#ffcc00;
     z-index: 999;
     box-shadow: 0px 0px 30px 1px rgba(0, 0, 0, 0.75) inset,
     0px 11px 9px -5px rgba(0, 0, 0, 0.75);
@@ -82,11 +82,11 @@ header {
 }
 
 .search__icon:hover {
-    fill: #4e4ecf;
+    fill: #0066cc;
     transform: scale(1.20) rotate(360deg);
 }
 .search-form button:focus {
-    fill: #4e4ecf;
+    fill: #0066cc;
     transform: scale(1.20) rotate(360deg);
 }
 /* HEADER END */
@@ -129,7 +129,7 @@ header {
     padding: 23px 10px;
     margin: 0;
     gap: 10px;
-    background-color: #4e4ecf;
+    background-color: #0066cc;
 }
 
 .info__item {
